@@ -7,13 +7,13 @@ output:
 editor_options:
   chunk_output_type: console
 ---
-
+# Shalise Burch
 Welcome to my first workflow website! 
 
 ### **I am part of the x. Laevis group, meet my team:**
 *[Say hello to Taylor!](https://thainsceb.github.io/myproject/)*
 
-# A list of Analysis 
+## A list of Analysis 
 *[Teeth growth analysis](teeth.html)
 
 
