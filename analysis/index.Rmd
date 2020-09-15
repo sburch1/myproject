@@ -9,7 +9,8 @@ editor_options:
 ---
 
 Welcome to my first workflow website! 
-# I am in the x. Laevis group, come meet my team
+
+# I am part of the x. Laevis group, meet my team:
 *[Say hello to Taylor!](https://thainsceb.github.io/myproject/)
 
 # A list of Analysis 
