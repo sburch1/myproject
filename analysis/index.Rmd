@@ -8,6 +8,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my first workflow website!v  
+Welcome to my first workflow website! 
 
+# A list of Analysis 
 *[Teeth growth analysis](teeth.html)
+
+#I am in the x. Laevis group, come meet my team
+*[Say hello to Taylor!](https://thainsceb.github.io/myproject/)
+
+
